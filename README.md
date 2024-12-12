@@ -4,6 +4,10 @@
 
 <p align="center">⚡ Front-End Developer</p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/matthew23596/count.svg?"  />
+</div>
+
 ###
 
 <h2 align="left">About me</h2>
